@@ -1,4 +1,6 @@
 # -Receipt-box--201434023
+  班级：  商英1401 学号：201434023   姓名:   吴先明
+------
 +Recently,l loaded a software called Receipts box . 
 It is used to record expenditure and income in daily life .
 Because of having this software . I become very happy .
